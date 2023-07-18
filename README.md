@@ -1,7 +1,9 @@
 # Candy Crush in React
 
 This project is in support of the tutorial found [here](https://www.youtube.com/watch?v=PBrEq9Wd6_U) 
-https://deng0004.github.io/candy_crush_react/
+
+DEMO Link: 
+[DEMO: ](https://deng0004.github.io/candy_crush_react/)
 ### To Start This Project
 
 ### `npm i`
